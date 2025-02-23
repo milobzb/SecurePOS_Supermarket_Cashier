@@ -1,4 +1,4 @@
-# 🛒 SecurePOS - Supermarket Cashier  
+# 🛒 SecurePOS - Self-Checkout Assistant  
 
 A **Python-based Supermarket Cashier program** that allows users to add products, calculate totals, apply discounts, and generate receipts.  
 
